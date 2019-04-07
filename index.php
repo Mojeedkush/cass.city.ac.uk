@@ -52,47 +52,11 @@
             <div class="col-md">
                 <video loop autoplay controls style="width:100%;">
                     <source src="media/video1.mp4" type="video/mp4">
-                    <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
                     Your browser does not support HTML5 video.
                 </video>
             </div>
         </div>
     </div>
-    <!-- <div class="container-fluid">
-        <div class="row">
-            <div class="col-md">
-                <div class="carousel slide mt-n3" data-ride="carousel" id="caro-div">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active header">
-                            <img src="city-wallpaper.jpg" alt="" data-interval="500" class="w-100" height="500px">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="uni1.jpg" alt="" data-interval="500" class="w-100" height="500px">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="uni4.jpg" alt="" data-interval="500" class="w-100" height="500px">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="the-bar.jpg" alt="" data-interval="500" class="w-100" height="500px">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="real_merge.jpg" alt="" data-interval="500" class="w-100" height="500px">
-                        </div>
-                            <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
-                        </div>    
-                    </div>    
-                </div>
-            </div>
-        </div> -->
-    <!-- </div>
-</div> -->
     <div class="container-fluid">
         <div class="row three-bg">
             <div class="col-md-2"></div>
@@ -120,7 +84,7 @@
                 <button class="button btn mb-3">Find out more</button>
             </div>
             <div class="col-md-2"></div>
-            <!-- <div class="col-md-2">6<br></div> -->
+
         </div>
     </div>
     <div class="container-fluid">
@@ -133,43 +97,28 @@
             </div>
         </div>
         <div class="row mt-5">
-            <!-- <div class="col-md-1"></div> -->
+
             <div class="col-md-3 text-center right-border">
                 <div class="counter">
                     <p class="count numb-count timer count-title count-number" data-from="0" data-to="50" data-speed="1500" data-waypoint-active="yes">50+</p>
                     <p>years of business education</p>
                 </div>
-                <!-- <div class="counter">
-                    <div class="counter-item">
-                                    <div class="counter-value">
-                                        <div class="icon-wrap">
-                                            <span class="fa fa-users"></span>
-                                        </div>
-                                        <span class="numb-count" data-from="0" data-to="2000000" data-speed="1000" data-waypoint-active="yes">2000000</span>
-                                    </div>
-                                    <div class="counter-content">
-                                        <p>
-                                            Happy Customers
-                                        </p>
-                                    </div>
-                    </div><!-- /.counter-item -->
-                <!-- </div> --> 
             </div>
-            <!-- <div class="col-md-1"></div> -->
+
             <div class="col-md-3 text-center right-border">
                 <p class="count">2nd</p>
                 <p>
                     in London (FT European Business <br> School Ranking 2018)
                 </p>
             </div>
-            <!-- <div class="col-md-1"></div> -->
+
             <div class="col-md-3 text-center right-border">
                 <p class="count">4,000</p>
                 <p>
                     Students from UG to Executive <br> Education
                 </p>
             </div>
-            <!-- <div class="col-md-1"></div> -->
+
             <div class="col-md-3 text-center">
                 <p class="count">$10M</p>
                  <p>

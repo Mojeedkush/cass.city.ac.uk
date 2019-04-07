@@ -10,10 +10,8 @@ a.upper {
 
 .below-top .search-box {
     width: 245px;
-    /* display: inline; */
     height: 100%;
     border: 1px blue solid;
-    /* z-index: 20; */
 }
 
 .below-top .search-box-icon {
@@ -22,17 +20,12 @@ a.upper {
     color: white;
     font-size: 20px;
     text-align: right;
-    /* display: inline; */
 }
 
 .button {
     background-color: white;
 }
 
-#caro-div {
-    /* border: 1px red solid; */
-    z-index: -10;
-}
 
 p.count {
     color: red;
@@ -72,15 +65,11 @@ p.count {
 
 .fifth-out {
     background-image: url('../media/painting_bg.jpg');
-    /* background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: cover; */
 }
 
 
 .footer .crowns a:hover {
     background-color: #797D7F;
-    /* border: 1px red solid; */
 }
 
 .footer .fa {
@@ -120,10 +109,6 @@ p.count {
     font-size: 18px;
 }
 
-.img-div {
-    background-image: url('uni1.jpg');
-}
-
 .news-events {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -140,7 +125,6 @@ p.count {
 }
 
 .news-events  h3{
-    /* margin-top: 100px; */
     margin-bottom: 70px;
 }
 
@@ -195,8 +179,6 @@ p.count {
 }
 
 .yell .fa-instagram {
-    /* background-image: url('uni5.jpg'); */
-    /* background-size: cover; */
     color: white;
     position: absolute;
     z-index: 5;
@@ -217,8 +199,6 @@ p.count {
 }
 
 .three-black h4 {
-    /* font-size: 31px; */
-    /* border-bottom: 3px #797D7F solid; */
     padding-bottom: 17px;
     color: white;
 }
@@ -245,7 +225,6 @@ p.count {
 }
 .three-white h4 {
     font-size: 31px;
-    /* border-bottom: 3px red solid; */
     padding-bottom: 17px;
 }
 
@@ -287,13 +266,11 @@ p.count {
 .uni-1 {
     z-index: 2;
     position: relative;
-    /* margin-top: 50px; */
 }
 
 .uni-2 {
     z-index: 2;
     position: relative;
-    /* margin-top: 50px; */
 }
 
 .white-bg-1 {
@@ -301,7 +278,6 @@ p.count {
     z-index: 5;
     position: absolute;
     top: 350px;
-    /* margin-top: -50px; */
     background-color: white;
     box-shadow: 0px 0px 30px 0px black;
 }
@@ -311,25 +287,17 @@ p.count {
     z-index: 5;
     position: absolute;
     top: 100px;
-    /* margin-top: -50px; */
     background-color: white;
     box-shadow: 0px 0px 30px 0px black;
 }
 
 .white-bg-3 {
     width: 80%;
-    /* height: 99%; */
     z-index: 5;
     position: absolute;
     top: 100px;
-    /* margin-top: -50px; */
     background-color: white;
     box-shadow: 0px 0px 30px 0px black;
-}
-
-.yell {
-    /* border: 1px yellow solid; */
-    /* background-color: yellow; */
 }
 
 .yell .margin-left {
