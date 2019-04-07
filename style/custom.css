@@ -1,0 +1,342 @@
+
+a.upper {
+    color: black;
+    text-decoration: none;
+}
+
+.arrow {
+    float: right;
+}
+
+.below-top .search-box {
+    width: 245px;
+    /* display: inline; */
+    height: 100%;
+    border: 1px blue solid;
+    /* z-index: 20; */
+}
+
+.below-top .search-box-icon {
+    background-color: red;
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+    text-align: right;
+    /* display: inline; */
+}
+
+.button {
+    background-color: white;
+}
+
+#caro-div {
+    /* border: 1px red solid; */
+    z-index: -10;
+}
+
+p.count {
+    color: red;
+    font-size: 50px;
+}
+
+.facts a:link {
+    color: black;
+}
+
+.facts a:hover {
+    color: black;
+    text-decoration: none;
+    border-bottom: black 2px solid;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.fifth-in {
+    background-color: black;
+    color: white;
+    opacity: 0.98;
+}
+
+.fifth-in a:link {
+    color: white;
+    text-decoration: none;
+}
+
+.fifth-in h4:hover {
+    /* color: black; */
+    text-decoration: none;
+    border-bottom: white 2px solid;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.fifth-out {
+    background-image: url('../media/painting_bg.jpg');
+    /* background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: cover; */
+}
+
+
+.footer .crowns a:hover {
+    background-color: #797D7F;
+    /* border: 1px red solid; */
+}
+
+.footer .fa {
+    position: relative;
+    right: -70px;
+    color: black;
+}
+
+.footer .fa-left {
+    position: relative;
+    left: -20px;
+}
+
+.footer p a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.footer p a:hover {
+    border-bottom: black 2px solid;
+    transition: all 0.2s ease-in-out;
+}
+
+.footer .footer-note a  {
+    text-decoration: underline;
+    color: blue;
+
+}
+
+.footer .social {
+    position: relative;
+    left: 10px;
+}
+
+.header-text {
+    font-size: 18px;
+}
+
+.img-div {
+    background-image: url('uni1.jpg');
+}
+
+.news-events {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.news-events a:link {
+    text-decoration: none;
+    color: black;
+}
+
+.news-events a:hover {
+    border-bottom: red 2px solid;
+    transition: all 0.2s ease-in-out;
+}
+
+.news-events  h3{
+    /* margin-top: 100px; */
+    margin-bottom: 70px;
+}
+
+#one-2 a:hover {
+    color: black;
+    text-decoration: none;
+    border-bottom: red 2px solid;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+#one-2 a.upper {
+    color: black;
+    text-decoration: none;
+}
+
+
+.red-button {
+    background-color: red;
+    color: white;
+}
+
+.right-border {
+    border-right: 2px #E5E7E9 solid 
+}
+
+.search-box {
+    z-index: 200;
+    display: none;
+}
+
+.socials {
+    background-color: #E5E7E9;
+}
+
+.yell .twit {
+    background-color: aqua;
+}
+
+.yell .face {
+    background-color: white;
+}
+
+.yell .fa-twitter {
+    position: relative;
+    left: 110px;
+}
+
+.yell .fa-facebook {
+    position: relative;
+    left: 110px;
+}
+
+.yell .fa-instagram {
+    /* background-image: url('uni5.jpg'); */
+    /* background-size: cover; */
+    color: white;
+    position: absolute;
+    z-index: 5;
+    top: 90px;
+    left: 120px;
+
+}
+
+.three-bg {
+    background-color:#E5E7E9;
+}
+
+.three-black {
+    background-color: black;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 30px 0px black;
+}
+
+.three-black h4 {
+    /* font-size: 31px; */
+    /* border-bottom: 3px #797D7F solid; */
+    padding-bottom: 17px;
+    color: white;
+}
+
+.three-black p {
+    color: white;
+}
+
+.three-black h4::after {
+    content: "";
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding-top: 17px;
+    border-bottom: #797D7F 3px solid;
+}
+
+
+.three-white {
+    background-color: white;
+    margin-top: -100px;
+    height: 400px;
+    box-shadow: 0px 0px 30px 0px black;
+}
+.three-white h4 {
+    font-size: 31px;
+    /* border-bottom: 3px red solid; */
+    padding-bottom: 17px;
+}
+
+
+
+.three-white h4::after {
+    content: "";
+    display: block;
+    margin: auto;
+    width: 25%;
+    padding-top: 33px;
+    border-bottom: red 3px solid;
+}
+
+
+.upper-top {
+    border-top: 10px solid black;
+    
+}
+
+.upper-top-width {
+    width: 97.5%;
+}
+
+.upper-top .header-text {
+    font-size: 17px;
+}
+
+.u-tube {
+    margin-top: -300px;
+}
+
+.women {
+    background-color: #E5E7E9;
+    color: black;
+    height: 500px;
+}
+
+.uni-1 {
+    z-index: 2;
+    position: relative;
+    /* margin-top: 50px; */
+}
+
+.uni-2 {
+    z-index: 2;
+    position: relative;
+    /* margin-top: 50px; */
+}
+
+.white-bg-1 {
+    width: 85%;
+    z-index: 5;
+    position: absolute;
+    top: 350px;
+    /* margin-top: -50px; */
+    background-color: white;
+    box-shadow: 0px 0px 30px 0px black;
+}
+
+.white-bg-2 {
+    width: 80%;
+    z-index: 5;
+    position: absolute;
+    top: 100px;
+    /* margin-top: -50px; */
+    background-color: white;
+    box-shadow: 0px 0px 30px 0px black;
+}
+
+.white-bg-3 {
+    width: 80%;
+    /* height: 99%; */
+    z-index: 5;
+    position: absolute;
+    top: 100px;
+    /* margin-top: -50px; */
+    background-color: white;
+    box-shadow: 0px 0px 30px 0px black;
+}
+
+.yell {
+    /* border: 1px yellow solid; */
+    /* background-color: yellow; */
+}
+
+.yell .margin-left {
+    margin-left: 70px;
+}
+
+.yell img {
+    z-index: 2;
+    position: relative;
+}
